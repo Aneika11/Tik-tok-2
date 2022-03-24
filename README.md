@@ -1,3 +1,4 @@
 # Tik-tok-2
-I love tik-tok 
-Likes
+1. I love tik-tok 
+2. Likes
+3. funny videos
