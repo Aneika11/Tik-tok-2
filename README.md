@@ -8,4 +8,5 @@
 2. chatbox
 3. payment structure
 4. communicate 
-5. love games 
+
+This feature can get better by being faster.
