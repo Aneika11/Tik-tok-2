@@ -9,3 +9,4 @@
 3. payment structure
 4. communicate 
 
+This feature can get better by being faster.
